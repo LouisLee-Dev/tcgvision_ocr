@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342485611568",
+    "project_id": "tcg-vision-655f2",
+    "storage_bucket": "tcg-vision-655f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342485611568:android:948322bcaaa8d49bbaa9f5",
+        "android_client_info": {
+          "package_name": "com.golden.star.tcgvision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342485611568-89cml9g867fr9t0i6pa56ijjmqje0l5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLblymsJ2xTkqxhB5FpKpwdgKGyyQB1Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342485611568-89cml9g867fr9t0i6pa56ijjmqje0l5a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342485611568-edlrhqt76uuftrl4jtotl8j55ta3lp0i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.golden.star.tcgvision"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4540878029763867~3227675247"
+    }
+  ],
+  "configuration_version": "1"
+}
